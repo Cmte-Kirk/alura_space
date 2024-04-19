@@ -1,0 +1,37 @@
+0.0 - Check python
+    python --version
+        instalar python
+0.1 - Check virtualenv
+    virtualenv --version OU python -m virtualenv --version 
+        pip install virtualenv
+
+1 - Estabeleça um ambiente virtual dentro do diretório do projeto
+    virtualenv venv OU python -m virtualenv venv
+
+2 - Ative o ambiente virtual
+    venv/Scripts/activate
+        deactivate
+
+3 - Instale o Django
+    pip install django
+
+4 - Crie o projeto Django
+    django-admin startproject setup .
+
+5 - Rode o servidor pela primeira vez
+    python manage.py runserver
+
+6 - Instaale o dotenv para criar variaveis de ambiente
+    pip install python-dotenv
+
+7 - Gere o aarquivo requirements.txt
+    pip freeze
+    pip freeze > requirements.txt
+
+8 - No arquivo settings.py Import biblioteca OS e dotenv
+    from pathlib import Path, os
+    from dotenv import load_dotenv
+    load_dotenv()
+    
+9 - Substitua a varivel SECRET-KEY pela chave gravada no arquivo .env
+    SECRET_KEY = str(os.getenv('SECRET_KEY'))
