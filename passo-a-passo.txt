@@ -35,3 +35,17 @@
     
 9 - Substitua a varivel SECRET-KEY pela chave gravada no arquivo .env
     SECRET_KEY = str(os.getenv('SECRET_KEY'))
+
+10 - Incluir projeto no git
+    git init
+    git add .
+    git commit -m "descrição"
+    git remote add origin <endereço do git>
+    git push origin mmaster
+
+11 - Criar um novo APP
+    python manage.py startapp galeria
+
+13 - Repalce arquivos staticos para usar a pasta static, utilizando regex
+    (")(/assets/.*png)
+    $1{% static '$2' %}
