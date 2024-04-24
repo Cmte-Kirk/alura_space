@@ -28,6 +28,9 @@
     pip freeze
     pip freeze > requirements.txt
 
+7.1 - Para reinstalar os arquivs do requirements.txt
+    pip install -r requirements.txt
+
 8 - No arquivo settings.py Import biblioteca OS e dotenv
     from pathlib import Path, os
     from dotenv import load_dotenv
@@ -49,3 +52,15 @@
 13 - Repalce arquivos staticos para usar a pasta static, utilizando regex
     (")(/assets/.*png)
     $1{% static '$2' %}
+
+14 - Após criar models deve-se criar os migrates
+    python manage.py makemigrations
+
+15 - Após criar os migrates deve-se executa-los
+    python manage.py migrate
+
+16 - Criar usuário root no Admin
+    python manage.py createsuperuser
+
+17 - Registrar Model CRUD no admin, no arquivo admin.py inclua
+    admin.site.register(Fotografia)
