@@ -1,3 +1,6 @@
+https://www.alura.com.br/artigos/django-framework
+https://www.alura.com.br/artigos/django-django-rest-diferencas
+
 0.0 - Check python
     python --version
         instalar python
@@ -44,7 +47,7 @@
     git add .
     git commit -m "descrição"
     git remote add origin <endereço do git>
-    git push origin mmaster
+    git push origin master
 
 11 - Criar um novo APP
     python manage.py startapp galeria
@@ -59,8 +62,11 @@
 15 - Após criar os migrates deve-se executa-los
     python manage.py migrate
 
-16 - Criar usuário root no Admin
+16 - Criar pasta de arquivos staticos
+    python manage.py collectstatic
+
+17 - Criar usuário root no Admin
     python manage.py createsuperuser
 
-17 - Registrar Model CRUD no admin, no arquivo admin.py inclua
+18 - Registrar Model CRUD no admin, no arquivo admin.py inclua
     admin.site.register(Fotografia)
