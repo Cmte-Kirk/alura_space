@@ -2,7 +2,7 @@
 ## [Formação: Django - crie aplicações em Python](https://cursos.alura.com.br/formacao-django)
 
 Nesta formação aprendi a desenvolver um site do zero com Python e Django
-Nesta formação da Alura, tive a oportunidade de desenvolver um site do zero com Python e Django  e me aprofundar no framework Django adquirindo as habilidades necessárias para desenvolver aplicações web robustas e escaláveis em Python. Através de um conteúdo abrangente e aulas práticas, pude dominar os seguintes tópicos:
+Nesta formação da [Alura](https://cursos.alura.com.br), tive a oportunidade de desenvolver um site do zero com Python e Django  e me aprofundar no framework Django adquirindo as habilidades necessárias para desenvolver aplicações web robustas e escaláveis em Python. Através de um conteúdo abrangente e aulas práticas, pude dominar os seguintes tópicos:
 
 ### 1. Fundamentos do Django
 
@@ -28,7 +28,7 @@ Nesta formação da Alura, tive a oportunidade de desenvolver um site do zero co
 
 ### 4. Aprofundando meus conhecimentos
 
-A "Formação: Django - Crie Aplicações em Python" da Alura me proporcionou uma base sólida para o desenvolvimento de aplicações web com Django. Além dos tópicos mencionados acima, a formação também abordou temas como:
+A "Formação: Django - Crie Aplicações em Python" da [Alura](https://cursos.alura.com.br) me proporcionou uma base sólida para o desenvolvimento de aplicações web com Django. Além dos tópicos mencionados acima, a formação também abordou temas como:
 
 - Gerenciamento de arquivos estáticos e mídia.
 - Integração com S3 para gerenciamento de arquivos estáticos e mídia.
@@ -36,4 +36,4 @@ A "Formação: Django - Crie Aplicações em Python" da Alura me proporcionou um
 - Desempenho e escalabilidade de aplicações web.
 - Boas práticas de segurança em aplicações web.
 
-Com os conhecimentos adquiridos na Alura, me sinto confiante para iniciar o desenvolvimento de minhas próprias aplicações web em Python utilizando o framework Django. Pretendo continuar aprendendo e me aprofundando em tópicos específicos, como desenvolvimento de APIs REST, integração com frameworks JavaScript e implementação de soluções em nuvem e DevOps. Agradeço à @alura por me proporcionar essa oportunidade de aprendizado e crescimento profissional.
+Com os conhecimentos adquiridos na [Alura](https://cursos.alura.com.br), me sinto confiante para iniciar o desenvolvimento de minhas próprias aplicações web em Python utilizando o framework Django. Pretendo continuar aprendendo e me aprofundando em tópicos específicos, como desenvolvimento de APIs REST, integração com frameworks JavaScript e implementação de soluções em nuvem e DevOps. Agradeço à [Alura](https://cursos.alura.com.br)  por me proporcionar essa oportunidade de aprendizado e crescimento profissional.
