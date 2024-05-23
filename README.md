@@ -37,3 +37,19 @@ A "Formação: Django - Crie Aplicações em Python" da [Alura](https://cursos.a
 - Boas práticas de segurança em aplicações web.
 
 Com os conhecimentos adquiridos na [Alura](https://cursos.alura.com.br), me sinto confiante para iniciar o desenvolvimento de minhas próprias aplicações web em Python utilizando o framework Django. Pretendo continuar aprendendo e me aprofundando em tópicos específicos, como desenvolvimento de APIs REST, integração com frameworks JavaScript e implementação de soluções em nuvem e DevOps. Agradeço à [Alura](https://cursos.alura.com.br)  por me proporcionar essa oportunidade de aprendizado e crescimento profissional.
+
+### 5. Prints das telas da aplicação:
+Tela de login após tentar entrar na home que tem a lista das imagem.
+![Login](prints/usuario-nao-logado.png)
+
+Tela da Home após login mostrando a lista de imagens e todos os menus.
+![Home lista de imagens](prints/home.png)
+
+Tela para visualizar as imagens cadastradas e sua descrição também permite edição e exclusão.
+![Visualizar imagem](prints/visualizar-imagem.png)
+
+Tela de cadastro de usuários não administrativos tem acesso ao sistema, mas não tem acesso ao admin.
+![Cadastro de usuário](prints/cadastro-usuario.png)
+
+Tela de cadastro de nova imagem.
+![Nova imagem](prints/cadastro-nova-imagem.png)
